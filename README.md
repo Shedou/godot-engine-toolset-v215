@@ -1,4 +1,4 @@
-## Godot Engine 2.1.5 Toolset
+## Godot Engine 2.1.5 Toolset [![Github Releases](https://img.shields.io/github/downloads/Shedou/godot-engine-toolset-v215/total.svg)](https://github.com/Shedou/godot-engine-toolset-v215/releases)
 Packaged by: Chimbal (https://github.com/Shedou, https://overclockers.ru/blog/Hard-Workshop)
 
 Language: (EN / [RU](https://github.com/Shedou/godot-engine-toolset-v215/blob/main/README-RU.md))
